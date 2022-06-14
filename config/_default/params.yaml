@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'B-Open'
+    description: 'We build software to monitor our planet'
+    twitter: 'bopensolutions'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/bopen/blog'
     content_dir: content
     branch: main
   avatar:
