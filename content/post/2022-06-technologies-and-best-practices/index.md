@@ -22,7 +22,7 @@ date: '2022-06-14T00:00:00Z'
 1. Python installation tooling: pip, conda
 1. Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)
 1. Type hints: Mypy
-1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. MAtplotlib, Plotly
+1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. Matplotlib, Plotly
 1. Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS
 1. Web API stack: FastAPI, SQLAlchemy
 
