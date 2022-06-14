@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link><atom:link href="https://bopen.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>B-Open development blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://bopen.github.io/blog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link></image><item><title>B-Open technologies and best practices</title><link>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</guid><description>&lt;p>At B-Open we try to keep up with the software development best practices and tooling,
-usually drawing from what larger Open Source projects are using successfully.
-Sometimes we need to adapt to the technological choices of our customers (JIRA comes to mind),
+often drawing from widely used and successful Open Source projects.
+Sometimes we need to adapt to the technological needs of our customers (JIRA comes to mind),
 but in 2022 we have several new projects starting up and most of them share a common
 set of technologies and best practices.&lt;/p>
 &lt;p>The main differences with respect to the past year are:&lt;/p>
