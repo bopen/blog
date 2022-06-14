@@ -22,12 +22,12 @@ date: '2022-06-14T00:00:00Z'
 1. Python installation tooling: pip, conda, setuptools-scm
 1. Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)
 1. Type hints: Mypy
-1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask
-1. Geospatial stack: GDAL (rasterio / fiona, shapely), QGIS
+1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy
+1. Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS
 
 ## System / DevOps
 
-1. Operating Systems: Ubuntu Linux, CentOS / RedHat Linux, MacOS, Windows.
+1. Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Amazon Web Services, Google Cloud Platform
 1. Deployment automation: Ansible, Terraform 
