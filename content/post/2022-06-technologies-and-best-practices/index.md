@@ -1,7 +1,11 @@
 ---
 title: B-Open technologies and best practices
-subtitle: What technologies and best practices are common at B-Open in 2022
-summary: What technologies and best practices are common at B-Open in 2022
+subtitle: Technologies and best practices at B-Open in 2022
+summary: At B-Open we try to keep up with the software development best practices and tooling,
+  usually drawing from what larger Open Source projects are using successfully.
+  Sometimes we need to adapt to the technological choices of our customers (JIRA comes to mind),
+  but in 2022 we have several new projects starting up and most of them share a common
+  set of technologies and best practices.
 authors:
   - alexamici
 tags: []
