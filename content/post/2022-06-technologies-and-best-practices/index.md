@@ -15,8 +15,8 @@ date: '2022-06-14T00:00:00Z'
 ---
 
 At B-Open we try to keep up with the software development best practices and tooling,
-usually drawing from what larger Open Source projects are using successfully.
-Sometimes we need to adapt to the technological choices of our customers (JIRA comes to mind),
+often drawing from widely used and successful Open Source projects.
+Sometimes we need to adapt to the technological needs of our customers (JIRA comes to mind),
 but in 2022 we have several new projects starting up and most of them share a common
 set of technologies and best practices.
 
