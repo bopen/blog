@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-  - admin
+  - alexamici
 
 tags:
   - Academic
