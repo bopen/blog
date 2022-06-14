@@ -12,7 +12,7 @@
 &lt;li>Type hints: Mypy&lt;/li>
 &lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy&lt;/li>
 &lt;li>Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS&lt;/li>
-&lt;li>Web stack: FastAPI, SQLAlchemy&lt;/li>
+&lt;li>Web API stack: FastAPI, SQLAlchemy&lt;/li>
 &lt;/ol>
 &lt;h2 id="system--devops">System / DevOps&lt;/h2>
 &lt;ol>
