@@ -7,10 +7,10 @@
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ol>
 &lt;li>Programming languages: Python 3.7+&lt;/li>
-&lt;li>Python installation tooling: pip, conda, setuptools-scm&lt;/li>
+&lt;li>Python installation tooling: pip, conda&lt;/li>
 &lt;li>Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)&lt;/li>
 &lt;li>Type hints: Mypy&lt;/li>
-&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy&lt;/li>
+&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. MAtplotlib, Plotly&lt;/li>
 &lt;li>Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS&lt;/li>
 &lt;li>Web API stack: FastAPI, SQLAlchemy&lt;/li>
 &lt;/ol>
@@ -18,7 +18,7 @@
 &lt;ol>
 &lt;li>Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.&lt;/li>
 &lt;li>Containers: Docker, Docker compose, Kubernetes&lt;/li>
-&lt;li>Cloud platforms: OpenStack, Amazon Web Services, Google Cloud Platform&lt;/li>
+&lt;li>Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services&lt;/li>
 &lt;li>Deployment automation: Ansible, Terraform&lt;/li>
 &lt;li>Continuous integration: GitHub Actions, GitLab CI/CD&lt;/li>
 &lt;li>Database: PostgreSQL / PostGIS&lt;/li>
