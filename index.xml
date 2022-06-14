@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link><atom:link href="https://bopen.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>B-Open development blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://bopen.github.io/blog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link></image><item><title>B-Open technologies and best practices</title><link>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</guid><description>&lt;h2 id="collaboration">Collaboration&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link><atom:link href="https://bopen.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><description>B-Open development blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://bopen.github.io/blog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>B-Open development blog</title><link>https://bopen.github.io/blog/</link></image><item><title>B-Open technologies and best practices</title><link>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</guid><description>&lt;p>At B-Open we try to keep up with the software development best practices and tooling,
+usually drawing from what larger Open Source projects are using successfully.
+Sometimes we need to adapt to the technological choices of our customers (JIRA comes to mind),
+but in 2022 we have several new projects starting up and most of them share a common
+set of technologies and best practices.&lt;/p>
+&lt;p>The main differences with respect to the past year are:&lt;/p>
+&lt;ul>
+&lt;li>Kubernetes more or less everywhere (but still a lot of docker-compose)&lt;/li>
+&lt;li>much more GitHub and GitHub Actions 🎊&lt;/li>
+&lt;li>FastAPI has taken over most API development&lt;/li>
+&lt;li>Ansible has kicked Puppet out of the list of legacy tools we need to endure 🥳&lt;/li>
+&lt;li>much less ReST in favour of MarkDown, but always with Sphinx&lt;/li>
+&lt;/ul>
+&lt;p>And here are the techonolgies for 2022.&lt;/p>
+&lt;h2 id="collaboration">Collaboration&lt;/h2>
 &lt;ol>
 &lt;li>Software project management: GitHub, GitLab, JIRA&lt;/li>
 &lt;li>Source control: git&lt;/li>
@@ -7,24 +21,64 @@
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ol>
 &lt;li>Programming languages: Python 3.7+&lt;/li>
-&lt;li>Python installation tooling: pip, conda&lt;/li>
+&lt;li>Python installation tooling: pip, conda
+&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; Updated upstream&lt;/li>
 &lt;li>Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)&lt;/li>
 &lt;li>Type hints: Mypy&lt;/li>
 &lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. Matplotlib, Plotly&lt;/li>
 &lt;li>Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS&lt;/li>
-&lt;li>Web API stack: FastAPI, SQLAlchemy&lt;/li>
+&lt;li>Web API stack: FastAPI, SQLAlchemy
+=======&lt;/li>
+&lt;li>Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)&lt;/li>
+&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly&lt;/li>
+&lt;li>Geospatial stack: GDAL / OGR, rasterio, QGIS&lt;/li>
+&lt;li>Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2&lt;/li>
 &lt;/ol>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>Stashed changes&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
 &lt;h2 id="system--devops">System / DevOps&lt;/h2>
 &lt;ol>
 &lt;li>Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.&lt;/li>
 &lt;li>Containers: Docker, Docker compose, Kubernetes&lt;/li>
 &lt;li>Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services&lt;/li>
 &lt;li>Deployment automation: Ansible, Terraform&lt;/li>
-&lt;li>Continuous integration: GitHub Actions, GitLab CI/CD&lt;/li>
+&lt;li>Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit&lt;/li>
 &lt;li>Database: PostgreSQL / PostGIS&lt;/li>
 &lt;/ol>
 &lt;h2 id="javascript">JavaScript&lt;/h2>
 &lt;ol>
-&lt;li>Framework: React&lt;/li>
-&lt;li>Web mapping: Leaflet&lt;/li>
-&lt;/ol></description></item><item><title/><link>https://bopen.github.io/blog/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/about/</guid><description/></item><item><title/><link>https://bopen.github.io/blog/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/admin/config.yml</guid><description/></item></channel></rss>
+&lt;li>Framework: React
+&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; Updated upstream&lt;/li>
+&lt;li>Web mapping: Leaflet
+=======&lt;/li>
+&lt;li>Web mapping: Leaflets&lt;/li>
+&lt;li>End-to-end testing: Cypress&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;blockquote>
+&lt;p>Stashed changes&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;/blockquote></description></item><item><title/><link>https://bopen.github.io/blog/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/about/</guid><description/></item><item><title/><link>https://bopen.github.io/blog/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/admin/config.yml</guid><description/></item></channel></rss>
