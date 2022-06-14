@@ -10,12 +10,12 @@
 &lt;li>Python installation tooling: pip, conda, setuptools-scm&lt;/li>
 &lt;li>Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)&lt;/li>
 &lt;li>Type hints: Mypy&lt;/li>
-&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask&lt;/li>
-&lt;li>Geospatial stack: GDAL (rasterio / fiona, shapely), QGIS&lt;/li>
+&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy&lt;/li>
+&lt;li>Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS&lt;/li>
 &lt;/ol>
 &lt;h2 id="system--devops">System / DevOps&lt;/h2>
 &lt;ol>
-&lt;li>Operating Systems: Ubuntu Linux, CentOS / RedHat Linux, MacOS, Windows.&lt;/li>
+&lt;li>Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.&lt;/li>
 &lt;li>Containers: Docker, Docker compose, Kubernetes&lt;/li>
 &lt;li>Cloud platforms: OpenStack, Amazon Web Services, Google Cloud Platform&lt;/li>
 &lt;li>Deployment automation: Ansible, Terraform&lt;/li>
