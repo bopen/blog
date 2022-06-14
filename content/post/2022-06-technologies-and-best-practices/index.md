@@ -36,18 +36,10 @@ And here are the techonolgies for 2022.
 
 1. Programming languages: Python 3.7+
 1. Python installation tooling: pip, conda
-<<<<<<< Updated upstream
-1. Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)
-1. Type hints: Mypy
-1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. Matplotlib, Plotly
-1. Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS
-1. Web API stack: FastAPI, SQLAlchemy
-=======
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
 1. Geospatial stack: GDAL / OGR, rasterio, QGIS
 1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
->>>>>>> Stashed changes
 
 ## System / DevOps
 
@@ -61,9 +53,5 @@ And here are the techonolgies for 2022.
 ## JavaScript
 
 1. Framework: React
-<<<<<<< Updated upstream
 1. Web mapping: Leaflet
-=======
-1. Web mapping: Leaflets
 1. End-to-end testing: Cypress
->>>>>>> Stashed changes
