@@ -10,7 +10,7 @@
 &lt;li>Python installation tooling: pip, conda&lt;/li>
 &lt;li>Software testing: pytest (unit testing), coverage.py (code coverage), black (coding style)&lt;/li>
 &lt;li>Type hints: Mypy&lt;/li>
-&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. MAtplotlib, Plotly&lt;/li>
+&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy. Matplotlib, Plotly&lt;/li>
 &lt;li>Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS&lt;/li>
 &lt;li>Web API stack: FastAPI, SQLAlchemy&lt;/li>
 &lt;/ol>
