@@ -24,18 +24,18 @@ The main differences with respect to the past year are:
 - Ansible has kicked Puppet out of the list of legacy tools we need to endure 🥳
 - much less ReST in favour of MarkDown, but always with Sphinx
 
-And here are the techonolgies for 2022. 
+And here are the technolgies for 2022. 
 
 ## Collaboration
 
 1. Software project management: GitHub, GitLab, JIRA
-1. Source control: git
+1. Source control: Git
 1. Documentation: MarkDown, Sphinx / MyST
 
 ## Python
 
 1. Programming languages: Python 3.7+
-1. Python installation tooling: pip, conda
+1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
 1. Geospatial stack: GDAL / OGR, rasterio, QGIS
