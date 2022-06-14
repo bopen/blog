@@ -38,4 +38,4 @@ date: '2022-06-14T00:00:00Z'
 ## JavaScript
 
 1. Framework: React
-1. Web mapping: Leaflets
+1. Web mapping: Leaflet
