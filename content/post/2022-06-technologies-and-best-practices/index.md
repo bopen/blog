@@ -14,7 +14,7 @@ date: '2022-06-14T00:00:00Z'
 
 1. Software project management: GitHub, GitLab, JIRA
 1. Source control: git
-1. Documentation: MarkDown, Sphinx / MyST, Confluence
+1. Documentation: MarkDown, Sphinx / MyST
 
 ## Python
 
@@ -24,6 +24,7 @@ date: '2022-06-14T00:00:00Z'
 1. Type hints: Mypy
 1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy
 1. Geospatial stack: GDAL, rasterio, Fiona, Shapely, QGIS
+1. Web stack: FastAPI, SQLAlchemy
 
 ## System / DevOps
 
@@ -37,3 +38,4 @@ date: '2022-06-14T00:00:00Z'
 ## JavaScript
 
 1. Framework: React
+1. Web mapping: Leaflets
