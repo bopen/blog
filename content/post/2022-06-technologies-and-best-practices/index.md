@@ -41,7 +41,7 @@ And here are the technolgies for 2022.
 1. Programming languages: Python 3.7+
 1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-1. Scientific stack: Numpy, Pandas, Jupyter notebooks, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
+1. Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
 1. Geospatial stack: GDAL / OGR, rasterio, QGIS
 1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
 
