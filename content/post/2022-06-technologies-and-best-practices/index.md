@@ -28,7 +28,7 @@ The main differences with respect to the past year are:
 - Ansible has kicked Puppet out of the list of legacy tools we need to endure 🥳
 - much less ReST in favour of MarkDown, but always with Sphinx
 
-And here are the technolgies for 2022. 
+And here are the technologies for 2022. 
 
 ## Collaboration
 
