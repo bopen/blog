@@ -1,4 +1,5 @@
 ---
+
 title: B-Open technologies and best practices
 subtitle: Technologies and best practices at B-Open in 2022
 summary: At B-Open we try to keep up with the software development best practices and tooling,
@@ -8,7 +9,9 @@ summary: At B-Open we try to keep up with the software development best practice
   set of technologies and best practices.
 authors:
   - alexamici
-tags: []
+tags:
+  - best-practices
+  - technologies
 categories: []
 projects: []
 date: '2022-06-14T00:00:00Z'
