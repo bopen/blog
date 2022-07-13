@@ -20,7 +20,7 @@ set of technologies and best practices.&lt;/p>
 &lt;/ol>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ol>
-&lt;li>Programming languages: Python 3.7+&lt;/li>
+&lt;li>Programming languages: Python 3.8+&lt;/li>
 &lt;li>Python installation tooling: Pip, Conda&lt;/li>
 &lt;li>Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)&lt;/li>
 &lt;li>Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly&lt;/li>
