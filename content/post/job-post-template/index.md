@@ -8,7 +8,7 @@ categories: []
 date: 2022-07-13T10:27:54+02:00
 lastmod: 2022-07-13T10:27:54+02:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,4 +36,9 @@ job short description
 deploy and manage systems and data processing pipelines for European agencies monitoring the environment from space. <!---
 common description
 -->
-You will join a team that combines a strong research-oriented attitude with a solid industrial background. We build software that works and have fun doing it!
+You will join fast growing company and
+a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
+If you love to build software and do science in an international environment,
+if you'd like to do it from wherever you like,
+if you aim at building software that works and have fun doing it,
+B-Open is the place to be.
