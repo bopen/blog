@@ -84,14 +84,12 @@ Demonstrable working experience in the following technologies / best practices, 
 common closing
 -->
 
-Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
-
-Office location: fully remote or Rome, Italy
-
-Employment Type: Full-time (tempo indeterminato CCNL commercio)
-
-Seniority level: mid-senior
+* Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
+* Office location: fully remote or Rome, Italy
+* Employment Type: Full-time (tempo indeterminato CCNL commercio)
+* Seniority level: mid-senior
 
 Great work you've made it this far!
 Does that sound like an interesting challenge?
-Please send both your CV and a cover letter with the role you are applying for in the subject header to: jobs@bopen.eu
+
+**Please send both your CV and a cover letter with the role you are applying for in the subject header to: jobs@bopen.eu**
