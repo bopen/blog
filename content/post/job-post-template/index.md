@@ -39,7 +39,7 @@ common foreword
 -->
 You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
-You will become an expert in cutting-edge Open Source technologies and will contribute to them. 
+You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
 If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
@@ -68,7 +68,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Operating Systems: Ubuntu Linux, CentOS Linux
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform 
+1. Deployment automation: Ansible, Terraform
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 1. Database: PostgreSQL / PostGIS
 
