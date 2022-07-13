@@ -33,7 +33,8 @@ _DevOps Engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for, as an example, European agencies monitoring the environment from space. <!---
+deploy, automate and manage distributed systems and data processing pipelines for, as an example, European agencies monitoring the environment from space.
+<!---
 common foreword
 -->
 You will join a fast growing company and
