@@ -9,14 +9,14 @@ set of technologies and best practices.&lt;/p>
 &lt;li>much more GitHub and GitHub Actions 🎊&lt;/li>
 &lt;li>FastAPI has taken over most API development&lt;/li>
 &lt;li>Ansible has kicked Puppet out of the list of legacy tools we need to endure 🥳&lt;/li>
-&lt;li>much less ReST in favour of MarkDown, but always with Sphinx&lt;/li>
+&lt;li>less ReST in favour of MarkDown, but always with Sphinx&lt;/li>
 &lt;/ul>
 &lt;p>And here are the technologies for 2022.&lt;/p>
 &lt;h2 id="collaboration">Collaboration&lt;/h2>
 &lt;ol>
 &lt;li>Software project management: GitHub, GitLab, JIRA&lt;/li>
 &lt;li>Source control: Git&lt;/li>
-&lt;li>Documentation: MarkDown, Sphinx / MyST&lt;/li>
+&lt;li>Documentation: reStructuredText, MarkDown, Sphinx / MyST&lt;/li>
 &lt;/ol>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ol>
