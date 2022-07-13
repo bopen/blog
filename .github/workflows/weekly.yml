@@ -1,0 +1,27 @@
+name: weekly
+
+on:
+  schedule:
+  - cron: 0 0 * * 0
+
+defaults:
+  run:
+    shell: bash -l {0}
+
+jobs:
+  autoupdate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+    - name: Install pre-commit
+      run: pip install pre-commit
+    - name: Run pre-commit autoupdate
+      run: |
+        pre-commit autoupdate -c .pre-commit-config.yaml
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+      with:
+        title: pre-commit autoupdate

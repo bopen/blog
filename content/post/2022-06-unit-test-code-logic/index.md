@@ -80,4 +80,3 @@ be tested with just strings and without any mock.
 
 The rest of the function only need testing that it uses current interfaces,
 as there is no moving part (conditionals, loops, handled exceptions, etc).
-
