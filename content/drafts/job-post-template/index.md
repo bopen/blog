@@ -48,6 +48,13 @@ job long description
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
+## Software development
+
+1. Programming language: Python 3.8+
+1. Python installation tooling: Pip, Conda
+1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
+1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
+
 [specific preferred qualifications]
 
 ## Collaboration tools

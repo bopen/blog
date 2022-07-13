@@ -1,5 +1,5 @@
 ---
-title: "Scientific software engineer - mid-senior"
+title: "Software engineer - mid-senior"
 subtitle: ""
 summary: ""
 authors: []
@@ -15,11 +15,11 @@ draft: true
 As a <!---
 job title
 -->
-_Scientific software engineer_
+_Software engineer_
 at B-Open you will <!---
 job short description
 -->
-develop software and in particular design algorithms and data processing pipelines for international agencies and private corporations monitoring the environment from space.
+design and develop software and data processing pipelines for international agencies and private corporations monitoring the environment from space.
 <!---
 common foreword
 -->
@@ -35,13 +35,13 @@ job long description
 
 # Your responsibilities
 
-* Design, develop, test, maintain and improve scientific software systems.
+* Design, develop, test, maintain and improve software systems.
 * Manage individual project priorities, deadlines and deliverables.
 
 # Minimum qualifications
 
 * Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3 years of working experience developing geospatial, scientific or engineering software.
+* 3 years of working experience developing web and back-end software.
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
@@ -55,17 +55,13 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 
-## Scientific computing
+## Web development
 
-1. Scientific stack: Numpy, Pandas, Xarray, Dask, Dask.distributed, Scipy
-1. Geospatial stack: GDAL / OGR, rasterio, QGIS
-1. Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
-
-## Specific expertise
-
-1. Meteorological satellite data formats: netCDF, HDF5, GRIB, BUFR
-1. Synthetic Aperture Radar (SAR) satellite data formats: Sentinel-1 / SAFE
-1. Satellite orbit & kinematics
+1. Front-end framework: React / JavaScript
+1. Web mapping: Leaflet
+1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
+1. Database: PostgreSQL / PostGIS
+1. End-to-end testing: Cypress
 
 ## Collaboration tools
 

@@ -48,20 +48,19 @@ job long description
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
+## Software development
+
+1. Programming language: Python 3.8+
+1. Python installation tooling: Pip, Conda
+1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
+1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
+
 ## System / DevOps
 
 1. Operating Systems: Ubuntu Linux, CentOS Linux
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
 1. Deployment automation: Ansible, Terraform
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
-1. Database: PostgreSQL / PostGIS
-
-## Python
-
-1. Programming languages: Python 3.8+
-1. Python installation tooling: Pip, Conda
-1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 
 ## Collaboration tools
 

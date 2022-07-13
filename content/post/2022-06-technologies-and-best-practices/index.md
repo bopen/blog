@@ -35,7 +35,7 @@ And here are the technologies for 2022.
 
 ## Software development
 
-1. Programming languages: Python 3.8+
+1. Programming language: Python 3.8+
 1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
@@ -61,7 +61,7 @@ And here are the technologies for 2022.
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
 1. Deployment automation: Ansible, Terraform
 
-## Collaboration
+## Collaboration tools
 
 1. Software project management: GitHub, GitLab, JIRA
 1. Source control: Git
