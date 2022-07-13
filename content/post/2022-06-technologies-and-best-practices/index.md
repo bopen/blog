@@ -41,7 +41,7 @@ And here are the technologies for 2022.
 
 ## Python
 
-1. Programming languages: Python 3.7+
+1. Programming languages: Python 3.8+
 1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly

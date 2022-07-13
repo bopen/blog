@@ -29,11 +29,11 @@ projects: []
 As a <!---
 job title
 -->
-_DevOps engineer_
+_Scientific software engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for intenational agencies and private corporations monitoring the environment from space.
+develop software and in particular design algorithms and data processing pipelines for international agencies and private corporations monitoring the environment from space.
 <!---
 common foreword
 -->
@@ -55,27 +55,26 @@ job long description
 # Minimum qualifications
 
 * Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3 years of working experience on administrating distributed systems based on Linux and networking.
+* 3 years of working experience developing geospatial, scientific or engineering software.
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
-## System / DevOps
-
-1. Operating Systems: Ubuntu Linux, CentOS Linux
-1. Containers: Docker, Docker compose, Kubernetes
-1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform 
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
-1. Database: PostgreSQL / PostGIS
-
 ## Python
 
-1. Programming languages: Python 3.8+
+1. Programming languages: Python 3.7+
 1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
+1. Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
+1. Geospatial stack: GDAL / OGR, rasterio, QGIS
+
+## Scientific expertise
+
+1. Meteorological satellite data formats: netCDF, HDF5, GRIB, BUFR
+1. Synthetic Aperture Radar (SAR) satellite data formats: Sentinel-1 / SAFE
+1. Satellite orbit & kinematics
 
 ## Collaboration tools
 
