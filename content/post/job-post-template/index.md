@@ -67,7 +67,7 @@ Demonstrable working experience in the following technologies / best practices, 
 
 1. Software project management: GitHub, GitLab, JIRA
 1. Source control: Git
-1. Documentation: MarkDown, Sphinx / MyST
+1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 ## System / DevOps
 

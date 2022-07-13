@@ -29,7 +29,7 @@ The main differences with respect to the past year are:
 - much more GitHub and GitHub Actions 🎊
 - FastAPI has taken over most API development 
 - Ansible has kicked Puppet out of the list of legacy tools we need to endure 🥳
-- much less ReST in favour of MarkDown, but always with Sphinx
+- less ReST in favour of MarkDown, but always with Sphinx
 
 And here are the technologies for 2022. 
 
@@ -37,7 +37,7 @@ And here are the technologies for 2022.
 
 1. Software project management: GitHub, GitLab, JIRA
 1. Source control: Git
-1. Documentation: MarkDown, Sphinx / MyST
+1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 ## Python
 
