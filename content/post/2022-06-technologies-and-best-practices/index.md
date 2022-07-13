@@ -17,11 +17,11 @@ projects: []
 date: '2022-06-14T00:00:00Z'
 ---
 
-At B-Open we try to keep up with the software development best practices and tooling,
+At B-Open we try to keep up with the software development best practices and tooling for Python,
 often drawing from widely used and successful Open Source projects.
 Sometimes we need to adapt to the technological needs of our customers (JIRA comes to mind),
 but in 2022 we have several new projects starting up and most of them share a common
-set of technologies and best practices.
+set of modern technologies and best practices.
 
 The main differences with respect to the past year are:
 
@@ -33,32 +33,36 @@ The main differences with respect to the past year are:
 
 And here are the technologies for 2022.
 
-## Collaboration
-
-1. Software project management: GitHub, GitLab, JIRA
-1. Source control: Git
-1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
-
-## Python
+## Software development
 
 1. Programming languages: Python 3.8+
 1. Python installation tooling: Pip, Conda
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-1. Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly
-1. Geospatial stack: GDAL / OGR, rasterio, QGIS
-1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
+1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 
-## System / DevOps
+## Scientific computing
+
+1. Scientific stack: Numpy, Pandas, Xarray, Dask, Dask.distributed, Scipy
+1. Geospatial stack: GDAL / OGR, rasterio, QGIS
+1. Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
+
+## Web development
+
+1. Front-end framework: React / JavaScript
+1. Web mapping: Leaflet
+1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
+1. Database: PostgreSQL / PostGIS
+1. End-to-end testing: Cypress
+
+## System engineering / DevOps
 
 1. Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
 1. Deployment automation: Ansible, Terraform
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
-1. Database: PostgreSQL / PostGIS
 
-## JavaScript
+## Collaboration
 
-1. Framework: React
-1. Web mapping: Leaflet
-1. End-to-end testing: Cypress
+1. Software project management: GitHub, GitLab, JIRA
+1. Source control: Git
+1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
