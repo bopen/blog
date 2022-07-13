@@ -78,7 +78,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 1. Database: PostgreSQL / PostGIS
 
-# 
+# Contract
 
 <!---
 common closing
