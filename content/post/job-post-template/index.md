@@ -33,13 +33,13 @@ _DevOps Engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for, as an example, European agencies monitoring the environment from space.
+deploy, automate and manage distributed systems and data processing pipelines for European agencies and corporations monitoring the environment from space.
 <!---
 common foreword
 -->
 You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
-You will become an expert in a number of cutting-edge Open Source technologies and will contribute to them. 
+You will become an expert in cutting-edge Open Source technologies and will contribute to them. 
 
 If you love developing software and science in an international environment,
 if you'd like to do it from wherever you like,
@@ -58,7 +58,7 @@ job long description
 
 # Minimum qualifications
 
-* Bachelor of Science in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
+* Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
 * 3 years of working experience on administrating distributed systems based on Linux and networking.
 * Verbal and written English proficiency and good communication skills.
 
@@ -98,7 +98,7 @@ common closing
 * Employment Type: Full-time with Italian contract (tempo indeterminato CCNL commercio)
 * Seniority level: mid-senior
 
-Great work you've made it this far!
+Great work, you've made it this far!
 Does that sound like an interesting challenge?
 
 **Please send both your CV and a cover letter with the role you are applying for in the subject header to: jobs@bopen.eu**
