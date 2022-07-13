@@ -34,14 +34,18 @@ at B-Open you will <!---
 job short description
 -->
 deploy and manage systems and data processing pipelines for European agencies monitoring the environment from space. <!---
-common description
+common foreword
 -->
 You will join a fast growing company and
-a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
+a team that uniquely combines a strong research-oriented attitude with a solid industrial approach. You will be using and contributing to cutting-edge open source technologies.
 If you love developing software and doing science in an international environment,
 if you'd like to do it from wherever you like,
 if your aim is to build stuff that works and have fun doing it,
 B-Open is the place to be.
+
+<!---
+job long description
+-->
 
 # Your responsibilities
 
@@ -52,15 +56,39 @@ B-Open is the place to be.
 # Minimum qualifications
 
 * Bachelor of Science in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* Experience with the Python programming language and one or more among: C/C++, R or JavaScript.
+* 3 years of working experience administrating Linux operating systems and networking.
 * Working proficiency and communication skills in verbal and written English.
 
 # Preferred qualifications
 
-* PhD, further education or experience in engineering, computer science or other technical related field.
-* Experience with Python scientific computing ecosystem: NumPy, SciPy, scikit-image, Jupyter, pandas, GDAL, xarray, dask.
-* Experience with software development best practices: unit / integration / functional testing, code coverage and coding style analysis.
-* Experience with modern tools and workflows for Continuous Integration such as Docker, Git, GitHub, GitLab, JIRA, Linux or equivalents.
-* Experience with weather, climate and climate change data: observations and forecasts.
-* Experience with remote sensing data from spaceborne and airborne sensors: RADAR, SAR and multispectral.
-* Experience with Big data and distributed computing technologies, dask, GPU, Hadoop, etc.
+Demonstrable working experience in the following technologies / best practices, the more the better.
+
+## Collaboration
+
+1. Software project management: GitHub, GitLab, JIRA
+1. Source control: Git
+1. Documentation: MarkDown, Sphinx / MyST
+
+## System / DevOps
+
+1. Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.
+1. Containers: Docker, Docker compose, Kubernetes
+1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
+1. Deployment automation: Ansible, Terraform 
+1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
+1. Database: PostgreSQL / PostGIS
+
+# 
+
+<!---
+common closing
+-->
+
+Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
+Office location: fully remote or Rome, Italy
+Employment Type: Full-time (tempo indeterminato CCNL commercio)
+Seniority level: mid-senior
+
+Great work you've made it this far!
+Does that sound like an interesting challenge?
+Please send both your CV and a cover letter with the role you are applying for in the subject header to: jobs@bopen.eu
