@@ -41,10 +41,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them. 
 
-If you love developing software and science in an international environment,
-if you'd like to do it from wherever you like,
-if your aim is to build stuff that works and have fun doing it,
-B-Open is the place to be.
+If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
 <!---
 job long description
