@@ -37,7 +37,9 @@ deploy, automate and manage distributed systems and data processing pipelines fo
 common foreword
 -->
 You will join a fast growing company and
-a team that uniquely combines a strong research-oriented attitude with a solid industrial approach. You will be using and contributing to cutting-edge open source technologies.
+a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
+You will become an expert in a number of cutting-edge Open Source technologies and will contribute to them. 
+
 If you love developing software and science in an international environment,
 if you'd like to do it from wherever you like,
 if your aim is to build stuff that works and have fun doing it,
@@ -71,6 +73,12 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Deployment automation: Ansible, Terraform 
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 1. Database: PostgreSQL / PostGIS
+
+## Python
+
+1. Programming languages: Python 3.8+
+1. Python installation tooling: Pip, Conda
+1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 
 ## Collaboration
 
