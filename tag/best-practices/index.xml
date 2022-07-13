@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>best-practices | B-Open development blog</title><link>https://bopen.github.io/blog/tag/best-practices/</link><atom:link href="https://bopen.github.io/blog/tag/best-practices/index.xml" rel="self" type="application/rss+xml"/><description>best-practices</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://bopen.github.io/blog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>best-practices</title><link>https://bopen.github.io/blog/tag/best-practices/</link></image><item><title>B-Open technologies and best practices</title><link>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</guid><description>&lt;p>At B-Open we try to keep up with the software development best practices and tooling,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>best-practices | B-Open development blog</title><link>https://bopen.github.io/blog/tag/best-practices/</link><atom:link href="https://bopen.github.io/blog/tag/best-practices/index.xml" rel="self" type="application/rss+xml"/><description>best-practices</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><image><url>https://bopen.github.io/blog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>best-practices</title><link>https://bopen.github.io/blog/tag/best-practices/</link></image><item><title>B-Open technologies and best practices</title><link>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://bopen.github.io/blog/post/2022-06-technologies-and-best-practices/</guid><description>&lt;p>At B-Open we try to keep up with the software development best practices and tooling for Python,
 often drawing from widely used and successful Open Source projects.
 Sometimes we need to adapt to the technological needs of our customers (JIRA comes to mind),
 but in 2022 we have several new projects starting up and most of them share a common
-set of technologies and best practices.&lt;/p>
+set of modern technologies and best practices.&lt;/p>
 &lt;p>The main differences with respect to the past year are:&lt;/p>
 &lt;ul>
 &lt;li>Kubernetes more or less everywhere (but still a lot of docker-compose)&lt;/li>
@@ -12,33 +12,37 @@ set of technologies and best practices.&lt;/p>
 &lt;li>less ReST in favour of MarkDown, but always with Sphinx&lt;/li>
 &lt;/ul>
 &lt;p>And here are the technologies for 2022.&lt;/p>
-&lt;h2 id="collaboration">Collaboration&lt;/h2>
-&lt;ol>
-&lt;li>Software project management: GitHub, GitLab, JIRA&lt;/li>
-&lt;li>Source control: Git&lt;/li>
-&lt;li>Documentation: reStructuredText, MarkDown, Sphinx / MyST&lt;/li>
-&lt;/ol>
-&lt;h2 id="python">Python&lt;/h2>
+&lt;h2 id="software-development">Software development&lt;/h2>
 &lt;ol>
 &lt;li>Programming languages: Python 3.8+&lt;/li>
 &lt;li>Python installation tooling: Pip, Conda&lt;/li>
 &lt;li>Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)&lt;/li>
-&lt;li>Scientific stack: Numpy, Pandas, Jupyter notebook, Xarray, Dask, Dask.distributed, Scipy, Matplotlib, Plotly&lt;/li>
-&lt;li>Geospatial stack: GDAL / OGR, rasterio, QGIS&lt;/li>
-&lt;li>Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2&lt;/li>
+&lt;li>Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit&lt;/li>
 &lt;/ol>
-&lt;h2 id="system--devops">System / DevOps&lt;/h2>
+&lt;h2 id="scientific-computing">Scientific computing&lt;/h2>
+&lt;ol>
+&lt;li>Scientific stack: Numpy, Pandas, Xarray, Dask, Dask.distributed, Scipy&lt;/li>
+&lt;li>Geospatial stack: GDAL / OGR, rasterio, QGIS&lt;/li>
+&lt;li>Scientific visualisation: Jupyter notebook, Matplotlib, Plotly&lt;/li>
+&lt;/ol>
+&lt;h2 id="web-development">Web development&lt;/h2>
+&lt;ol>
+&lt;li>Front-end framework: React / JavaScript&lt;/li>
+&lt;li>Web mapping: Leaflet&lt;/li>
+&lt;li>Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2&lt;/li>
+&lt;li>Database: PostgreSQL / PostGIS&lt;/li>
+&lt;li>End-to-end testing: Cypress&lt;/li>
+&lt;/ol>
+&lt;h2 id="system-engineering--devops">System engineering / DevOps&lt;/h2>
 &lt;ol>
 &lt;li>Operating Systems: Ubuntu Linux, CentOS Linux, MacOS, Windows.&lt;/li>
 &lt;li>Containers: Docker, Docker compose, Kubernetes&lt;/li>
 &lt;li>Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services&lt;/li>
 &lt;li>Deployment automation: Ansible, Terraform&lt;/li>
-&lt;li>Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit&lt;/li>
-&lt;li>Database: PostgreSQL / PostGIS&lt;/li>
 &lt;/ol>
-&lt;h2 id="javascript">JavaScript&lt;/h2>
+&lt;h2 id="collaboration">Collaboration&lt;/h2>
 &lt;ol>
-&lt;li>Framework: React&lt;/li>
-&lt;li>Web mapping: Leaflet&lt;/li>
-&lt;li>End-to-end testing: Cypress&lt;/li>
+&lt;li>Software project management: GitHub, GitLab, JIRA&lt;/li>
+&lt;li>Source control: Git&lt;/li>
+&lt;li>Documentation: reStructuredText, MarkDown, Sphinx / MyST&lt;/li>
 &lt;/ol></description></item></channel></rss>
