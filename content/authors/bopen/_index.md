@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alessandro Amici
+title: B-Open
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: CTO
+role: Company
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.bopen.eu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate and opinionated Software Engineer & Entrepreneur. Remote Sensing | Climate | Python
+bio: We build software to monitor our planet
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: Passionate and opinionated Software Engineer & Entrepreneur. Remote Sensing
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/alexamici
+    link: https://github.com/bopen
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/alexamici
+    link: https://twitter.com/bopensolutions
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/alexamici
+    link: https://it.linkedin.com/company/bopen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,4 +62,4 @@ social:
 #email: ""
 ---
 
-I am the CTO and technical lead of B-Open (Rome, Italy), a software consulting company I co-founded in 2004, whose specialities are algorithm design and software development for Earth Observation, image processing and data-/work-flow management, leveraging the scientific Python ecosystem. I have extensive experience working for international organisations and national institutions in Europe and in the Mediterranean Area, as well as for large Italian companies and multinationals. I am also a co-maintainer of a few Open Source Software projects: xarray, cfgrib, elevation and xarray-sentinel, and I made significant contributions to GDAL in the past. I am a Ph.D in Physics.
+B-Open is an Italian SME specialised in algorithm design and software development for Earth Observation, image processing and data-/work-flow management. Our team combines a research-oriented attitude – with a majority of the resources being post-doc or PhD – with a strong industrial background. We have extensive experience working for international organisations and national institutions in Europe and in the Mediterranean Sea, as well as for large Italian companies and multinationals.
