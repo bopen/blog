@@ -19,7 +19,7 @@ _DevOps engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for intenational agencies and private corporations monitoring the environment from space.
+deploy, automate and manage distributed systems and data processing pipelines for international agencies and private corporations monitoring the environment from space.
 <!---
 common foreword
 -->
@@ -53,7 +53,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Operating Systems: Ubuntu Linux, CentOS Linux
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform 
+1. Deployment automation: Ansible, Terraform
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 1. Database: PostgreSQL / PostGIS
 
