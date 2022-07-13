@@ -14,7 +14,7 @@ set of modern technologies and best practices.&lt;/p>
 &lt;p>And here are the technologies for 2022.&lt;/p>
 &lt;h2 id="software-development">Software development&lt;/h2>
 &lt;ol>
-&lt;li>Programming languages: Python 3.8+&lt;/li>
+&lt;li>Programming language: Python 3.8+&lt;/li>
 &lt;li>Python installation tooling: Pip, Conda&lt;/li>
 &lt;li>Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)&lt;/li>
 &lt;li>Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit&lt;/li>
@@ -40,7 +40,7 @@ set of modern technologies and best practices.&lt;/p>
 &lt;li>Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services&lt;/li>
 &lt;li>Deployment automation: Ansible, Terraform&lt;/li>
 &lt;/ol>
-&lt;h2 id="collaboration">Collaboration&lt;/h2>
+&lt;h2 id="collaboration-tools">Collaboration tools&lt;/h2>
 &lt;ol>
 &lt;li>Software project management: GitHub, GitLab, JIRA&lt;/li>
 &lt;li>Source control: Git&lt;/li>
