@@ -85,8 +85,11 @@ common closing
 -->
 
 Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
+
 Office location: fully remote or Rome, Italy
+
 Employment Type: Full-time (tempo indeterminato CCNL commercio)
+
 Seniority level: mid-senior
 
 Great work you've made it this far!
