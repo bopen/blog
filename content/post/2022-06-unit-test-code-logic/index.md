@@ -35,7 +35,7 @@ other code".
 
 Let's try to use and example to define the "interesting code" bit.
 
-The followin code is run within an API request and fetches the data for
+The following code is run within an API request and fetches the data for
 the response from a database. This is similar to functions I have seen
 in several projects and looks relatively harmless.
 
@@ -75,7 +75,7 @@ The interesting logic bits that needs careful testing are:
 1. the computation of `data_uuid`
 
 These are string manipulations with a few conditional and several corner cases,
-and have nothign to do with FastAPI or SQLAlchemy. The logic can (and should)
+and have nothing to do with FastAPI or SQLAlchemy. The logic can (and should)
 be tested with just strings and without any mock.
 
 The rest of the function only need testing that it uses current interfaces,
