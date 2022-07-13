@@ -36,9 +36,9 @@ job short description
 deploy and manage systems and data processing pipelines for European agencies monitoring the environment from space. <!---
 common description
 -->
-You will join fast growing company and
+You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
-If you love to build software and do science in an international environment,
+If you love developing software and doing science in an international environment,
 if you'd like to do it from wherever you like,
-if you aim at building software that works and have fun doing it,
+if your aim is to build stuff that works and have fun doing it,
 B-Open is the place to be.
