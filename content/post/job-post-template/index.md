@@ -33,12 +33,12 @@ _DevOps Engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for European agencies monitoring the environment from space. <!---
+deploy, automate and manage distributed systems and data processing pipelines for, as an example, European agencies monitoring the environment from space. <!---
 common foreword
 -->
 You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach. You will be using and contributing to cutting-edge open source technologies.
-If you love developing software and doing science in an international environment,
+If you love developing software and science in an international environment,
 if you'd like to do it from wherever you like,
 if your aim is to build stuff that works and have fun doing it,
 B-Open is the place to be.
@@ -57,7 +57,7 @@ job long description
 
 * Bachelor of Science in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
 * 3 years of working experience on administrating distributed systems based on Linux and networking.
-* Working proficiency and communication skills in verbal and written English.
+* Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
 
