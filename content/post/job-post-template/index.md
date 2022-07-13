@@ -78,7 +78,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Source control: Git
 1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
-# Contract
+# Contract matters
 
 <!---
 common closing
@@ -86,7 +86,7 @@ common closing
 
 * Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
 * Office location: fully remote or Rome, Italy
-* Employment Type: Full-time (tempo indeterminato CCNL commercio)
+* Employment Type: Full-time with Italian contract (tempo indeterminato CCNL commercio)
 * Seniority level: mid-senior
 
 Great work you've made it this far!
