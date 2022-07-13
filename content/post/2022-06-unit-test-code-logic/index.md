@@ -1,33 +1,42 @@
----
+______________________________________________________________________
+
 title: "Unit Test Code Logic"
 subtitle: ""
 summary: ""
 authors:
+
 - alexamici
-tags:
+  tags:
 - testing
 - best-practices
-categories: []
-date: 2022-06-26T18:39:05+02:00
-lastmod: 2022-06-26T18:39:05+02:00
-featured: false
-draft: true
+  categories: \[\]
+  date: 2022-06-26T18:39:05+02:00
+  lastmod: 2022-06-26T18:39:05+02:00
+  featured: false
+  draft: true
 
 # Featured image
+
 # To use, add an image named `featured.jpg/png` to your page's folder.
+
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+caption: ""
+focal_point: ""
+preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
+
+# Associate this post with one or more of your projects.
+
+# Simply enter your project's folder or file name without extension.
+
+# E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+
+# Otherwise, set `projects = []`.
+
+## projects: \[\]
 
 A lot of rules and best practices in testing are based on a single idea,
 something along the line: "keep the interesting code close and away from
@@ -71,6 +80,7 @@ for both the fastapi Request and for the SQLAlchemy query, and the "interesting 
 that needs tesing has nothing to do with either of the two!
 
 The interesting logic bits that needs careful testing are:
+
 1. the computation of `data_epsg`
 1. the computation of `data_uuid`
 
@@ -80,4 +90,3 @@ be tested with just strings and without any mock.
 
 The rest of the function only need testing that it uses current interfaces,
 as there is no moving part (conditionals, loops, handled exceptions, etc).
-

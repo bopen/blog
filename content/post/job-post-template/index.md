@@ -1,30 +1,38 @@
----
+______________________________________________________________________
+
 title: "Job Post Template"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
-categories: []
+authors: \[\]
+tags: \[\]
+categories: \[\]
 date: 2022-07-13T10:27:54+02:00
 lastmod: 2022-07-13T10:27:54+02:00
 featured: false
 draft: true
 
 # Featured image
+
 # To use, add an image named `featured.jpg/png` to your page's folder.
+
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+caption: ""
+focal_point: ""
+preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
+
+# Associate this post with one or more of your projects.
+
+# Simply enter your project's folder or file name without extension.
+
+# E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+
+# Otherwise, set `projects = []`.
+
+## projects: \[\]
 
 As a <!---
 job title
@@ -34,12 +42,14 @@ at B-Open you will <!---
 job short description
 -->
 deploy, automate and manage distributed systems and data processing pipelines for international agencies and private corporations monitoring the environment from space.
+
 <!---
 common foreword
 -->
+
 You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
-You will become an expert in cutting-edge Open Source technologies and will contribute to them. 
+You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
 If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
@@ -49,15 +59,14 @@ job long description
 
 # Your responsibilities
 
-* Design, develop, test, automate, deploy, maintain and improve software systems in operations.
-* Manage individual project priorities, deadlines and deliverables.
-
+- Design, develop, test, automate, deploy, maintain and improve software systems in operations.
+- Manage individual project priorities, deadlines and deliverables.
 
 # Minimum qualifications
 
-* Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3 years of working experience on administrating distributed systems based on Linux and networking.
-* Verbal and written English proficiency and good communication skills.
+- Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
+- 3 years of working experience on administrating distributed systems based on Linux and networking.
+- Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
 
@@ -68,7 +77,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Operating Systems: Ubuntu Linux, CentOS Linux
 1. Containers: Docker, Docker compose, Kubernetes
 1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform 
+1. Deployment automation: Ansible, Terraform
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 1. Database: PostgreSQL / PostGIS
 
@@ -90,10 +99,10 @@ Demonstrable working experience in the following technologies / best practices, 
 common closing
 -->
 
-* Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
-* Office location: fully remote or Rome, Italy
-* Employment Type: Full-time with Italian contract (tempo indeterminato CCNL commercio)
-* Seniority level: mid-senior
+- Nationalities: all European Union member states (Unfortunately we are unable to offer VISA sponsorship for non-EU citizens)
+- Office location: fully remote or Rome, Italy
+- Employment Type: Full-time with Italian contract (tempo indeterminato CCNL commercio)
+- Seniority level: mid-senior
 
 Great work, you've made it this far!
 Does that sound like an interesting challenge?

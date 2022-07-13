@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: ResearchOrganization
     local_business_type: ''
-    org_name: 'B-Open'
-    description: 'We build software to monitor our planet'
-    twitter: 'bopensolutions'
+    org_name: B-Open
+    description: We build software to monitor our planet
+    twitter: bopensolutions
   analytics:
-    google_analytics: 'G-081MX2DDYD'
+    google_analytics: G-081MX2DDYD
     baidu_tongji: ''
   verification:
     google: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: © {year} Me. This work is licensed under {license}
     license:
       enable: true
       allow_derivatives: false
@@ -51,8 +51,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: Jan 2, 2006
+  time_format: 3:04 PM
 
 # Site features
 
@@ -60,14 +60,14 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
-      - r
-      - latex
+    - r
+    - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/bopen/blog'
+    url: https://github.com/bopen/blog
     content_dir: content
     branch: main
   avatar:
