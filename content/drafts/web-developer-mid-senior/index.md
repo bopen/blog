@@ -55,18 +55,13 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 
-## Back-end development
+## Web development
 
-1. Operating Systems: Ubuntu Linux, CentOS Linux
-1. Containers: Docker
-1. Web API stack: FastAPI, SQLAlchemy
+1. Front-end framework: React / JavaScript
+1. Web mapping: Leaflet
+1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
 1. Database: PostgreSQL / PostGIS
-
-## Scientific computing
-
-1. Scientific stack: Numpy, Pandas, Xarray, Dask, Dask.distributed, Scipy
-1. Geospatial stack: GDAL / OGR, rasterio, QGIS
-1. Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
+1. End-to-end testing: Cypress
 
 ## Collaboration tools
 

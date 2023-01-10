@@ -61,7 +61,7 @@ Demonstrable working experience in the following technologies / best practices, 
 1. Geospatial stack: GDAL / OGR, rasterio, QGIS
 1. Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
 
-## Specific expertise
+## Specific expertise / Very-nice-to-have
 
 1. Meteorological satellite data formats: netCDF, HDF5, GRIB, BUFR
 1. Synthetic Aperture Radar (SAR) satellite data formats: Sentinel-1 / SAFE
