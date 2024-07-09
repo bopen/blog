@@ -1,5 +1,5 @@
 ---
-title: "Front-end and back-end software engineer - mid-senior"
+title: "Full stack software engineer - mid-senior"
 subtitle: ""
 summary: ""
 authors: []
@@ -15,7 +15,7 @@ draft: true
 As a <!---
 job title
 -->
-_Front-end and back-end software engineer_
+_Full stack software engineer_
 at B-Open you will <!---
 job short description
 -->
