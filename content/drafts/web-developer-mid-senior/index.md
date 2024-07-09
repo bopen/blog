@@ -48,26 +48,28 @@ job long description
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
-## Software development
+## Backend development
 
-1. Programming language: Python 3.8+
-1. Python installation tooling: Pip, Conda
-1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
+1. Preferred programming language: Python 3.8+
+   1. Python installation tooling: Pip, Conda
+   1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
+   1. Web API stack: FastAPI, SQLAlchemy
+1. Database: PostgreSQL / PostGIS
 1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
 
 ## Web development
 
-1. Front-end framework: React / JavaScript
-1. Web mapping: Leaflet
-1. Web API stack: FastAPI, SQLAlchemy, Keycloak / WSO2
-1. Database: PostgreSQL / PostGIS
-1. End-to-end testing: Cypress
+1. HTML, CSS
+1. Usability and Accessibility
+1. JavaScript
+   1. Front-end frameworks: React, Remix, Web Components
+   1. Testing: Cypress, Jest
+   1. Geospatial libraries: Leaflet, OpenLayers, Cesium, …
 
 ## Collaboration tools
 
 1. Software project management: GitHub, GitLab, JIRA
 1. Source control: Git
-1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 <!---
 common closing
