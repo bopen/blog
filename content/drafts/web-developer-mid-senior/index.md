@@ -19,7 +19,7 @@ _Full stack software engineer_
 at B-Open you will <!---
 job short description
 -->
-design and develop software and web applications for international agencies and private corporations involved in the production, distribution and analysis of earth data (wheather and climate forecasts, observations, etc.).
+design and develop software systems for the top international agencies and private corporations involved in climate research and earth observation from space.
 <!---
 common foreword
 -->
