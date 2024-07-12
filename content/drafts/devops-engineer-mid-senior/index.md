@@ -19,7 +19,7 @@ _DevOps engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for international agencies and private corporations monitoring the environment from space.
+deploy, automate and maintain software systems for the top international agencies and private corporations involved in climate research and earth observation from space.
 <!---
 common foreword
 -->
@@ -27,8 +27,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
-If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
-
+If you are passionate about software development, climate and earth science and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 <!---
 job long description
 -->
