@@ -19,7 +19,7 @@ _DevOps engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and manage distributed systems and data processing pipelines for international agencies and private corporations monitoring the environment from space.
+deploy, automate and maintain software systems for the top international agencies and private corporations involved in climate research and earth observation from space.
 <!---
 common foreword
 -->
@@ -27,8 +27,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
-If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
-
+If you are passionate about software development, climate and earth science and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 <!---
 job long description
 -->
@@ -41,32 +40,30 @@ job long description
 # Minimum qualifications
 
 * Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3 years of working experience on administrating distributed systems based on Linux and networking.
+* 3+ years of working experience on administrating distributed systems based on Linux and networking.
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
-## Software development
-
-1. Programming language: Python 3.8+
-1. Python installation tooling: Pip, Conda
-1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
-
 ## System / DevOps
 
-1. Operating Systems: Ubuntu Linux, CentOS Linux
-1. Containers: Docker, Docker compose, Kubernetes
-1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform
+* Operating Systems: Linux
+* Networking: TCP/IP, DNS, HTTP, VPN, SSH
+* Web servers: Nginx, Traefik
+* Containers: Docker, Docker compose
+* Kubernetes: kustomize, helm, flux, devspace
+* Scripting: Python, Bash
+* Cloud platforms: OpenStack, OVH, Google Cloud Platform, Microsoft Azure, Amazon Web Services
+* Deployment automation: Ansible, Terraform
+* Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Collaboration tools
 
-1. Software project management: GitHub, GitLab, JIRA
-1. Source control: Git
-1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
+* Software project management: GitHub, GitLab, JIRA
+* Source control: Git
+* Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 <!---
 common closing
