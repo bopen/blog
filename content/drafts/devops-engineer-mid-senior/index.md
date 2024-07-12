@@ -41,32 +41,30 @@ job long description
 # Minimum qualifications
 
 * Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3 years of working experience on administrating distributed systems based on Linux and networking.
+* 3+ years of working experience on administrating distributed systems based on Linux and networking.
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
 
 Demonstrable working experience in the following technologies / best practices, the more the better.
 
-## Software development
-
-1. Programming language: Python 3.8+
-1. Python installation tooling: Pip, Conda
-1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
-
 ## System / DevOps
 
-1. Operating Systems: Ubuntu Linux, CentOS Linux
-1. Containers: Docker, Docker compose, Kubernetes
-1. Cloud platforms: OpenStack, Google Cloud Platform, Microsoft Azure, Amazon Web Services
-1. Deployment automation: Ansible, Terraform
+* Operating Systems: Linux
+* Networking: TCP/IP, DNS, HTTP, VPN, SSH
+* Web servers: Nginx, Traefik
+* Containers: Docker, Docker compose
+* Kubernetes: kustomize, helm, flux, devspace
+* Scripting: Python, Bash
+* Cloud platforms: OpenStack, OVH, Google Cloud Platform, Microsoft Azure, Amazon Web Services
+* Deployment automation: Ansible, Terraform
+* Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Collaboration tools
 
-1. Software project management: GitHub, GitLab, JIRA
-1. Source control: Git
-1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
+* Software project management: GitHub, GitLab, JIRA
+* Source control: Git
+* Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 <!---
 common closing
