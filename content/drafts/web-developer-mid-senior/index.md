@@ -41,8 +41,8 @@ job long description
 
 # Minimum qualifications
 
-* Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3+ years of working experience developing web and back-end software.
+* Education: degree in technical-scientific disciplines or equivalent practical experience.
+* 3 years of working experience developing web and back-end software.
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
@@ -51,26 +51,24 @@ Demonstrable working experience in the following technologies / best practices, 
 
 ## Backend development
 
-* Preferred programming language: Python 3.8+
-   * Python installation tooling: Pip, Conda
-   * Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-   * Web API stack: FastAPI, SQLAlchemy
-* Database: PostgreSQL / PostGIS
-* Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
+* Programming languages: Python 3 (preferred), Node, Go
+* Software testing: unit testing (Pytest), type check (Mypy)
+* Python Web API stack: FastAPI, SQLAlchemy
+* Database: PostgreSQL, PostGIS
+* Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Web development
 
-* HTML, CSS
+* Building blocks: semantic HTML, CSS
 * Usability and Accessibility
-* JavaScript
-   * Front-end frameworks: React, Remix, Web Components
-   * Testing: Cypress, Jest
-   * Geospatial libraries: Leaflet, OpenLayers, Cesium, …
+* Programming languages: JavaScript, TypeScript
+* Front-end frameworks: React, Remix, Web Components
+* Testing: Cypress, Jest
+* Geospatial libraries: Leaflet, OpenLayers, Cesium
 
 ## Collaboration tools
 
 * Software project management: GitHub, GitLab, JIRA
-* Source control: Git
 
 <!---
 common closing
