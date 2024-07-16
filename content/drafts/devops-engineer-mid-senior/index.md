@@ -19,7 +19,7 @@ _DevOps engineer_
 at B-Open you will <!---
 job short description
 -->
-deploy, automate and maintain software systems for the top international agencies and private corporations involved in climate research and earth observation from space.
+deploy, automate and maintain software systems for top international agencies and private corporations working on climate change and earth observation.
 <!---
 common foreword
 -->
