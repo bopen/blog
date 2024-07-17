@@ -41,7 +41,7 @@ job long description
 
 # Minimum qualifications
 
-* Education: degree in technical-scientific disciplines or equivalent practical experience.
+* Degree in technical-scientific disciplines or equivalent practical experience.
 * 3 years of working experience developing web and back-end software.
 * Verbal and written English proficiency and good communication skills.
 
