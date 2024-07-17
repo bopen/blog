@@ -34,13 +34,13 @@ job long description
 
 # Your responsibilities
 
-* Design, develop, test, automate, deploy, maintain and improve software systems in operations.
+* Design, automate, deploy and maintain software systems in operations.
 * Manage individual project priorities, deadlines and deliverables.
 
 # Minimum qualifications
 
-* Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
-* 3+ years of working experience on administrating distributed systems based on Linux and networking.
+* Degree in technical-scientific disciplines or equivalent practical experience.
+* 3 years of working experience in administering Linux systems and networks
 * Verbal and written English proficiency and good communication skills.
 
 # Preferred qualifications
@@ -50,20 +50,18 @@ Demonstrable working experience in the following technologies / best practices, 
 ## System / DevOps
 
 * Operating Systems: Linux
-* Networking: TCP/IP, DNS, HTTP, VPN, SSH
+* Networking: TCP/IP, DNS, HTTP, TLS/SSL, SSH
 * Web servers: Nginx, Traefik
-* Containers: Docker, Docker compose
-* Kubernetes: kustomize, helm, flux, devspace
+* Containers: Docker, Dockerfile
+* Kubernetes: Kustomize, Helm, Flux, Devspace
 * Scripting: Python, Bash
-* Cloud platforms: OpenStack, OVH, Google Cloud Platform, Microsoft Azure, Amazon Web Services
+* Cloud platforms: OpenStack, OVH Cloud, Amazon Web Services
 * Deployment automation: Ansible, Terraform
 * Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Collaboration tools
 
 * Software project management: GitHub, GitLab, JIRA
-* Source control: Git
-* Documentation: reStructuredText, MarkDown, Sphinx / MyST
 
 <!---
 common closing
