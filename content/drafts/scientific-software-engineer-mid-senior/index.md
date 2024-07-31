@@ -19,7 +19,7 @@ _Scientific software engineer_
 at B-Open you will <!---
 job short description
 -->
-develop software and in particular design algorithms and data processing pipelines for international agencies and private corporations monitoring the environment from space.
+design and develop software and in particular algorithms for top international agencies and private corporations working on climate change and earth observation.
 <!---
 common foreword
 -->
@@ -27,7 +27,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
-If you are passionate about developing software and science in an international environment, if your aim is to have fun building stuff that works, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
+If you are passionate about software development, climate and earth science and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
 <!---
 job long description
@@ -40,7 +40,7 @@ job long description
 
 # Minimum qualifications
 
-* Bachelor in computer science or Master of Science in engineering, physics, mathematics or similar technical field of study or equivalent practical experience.
+* Degree in technical-scientific disciplines or equivalent practical experience.
 * 3 years of working experience developing geospatial, scientific or engineering software.
 * Verbal and written English proficiency and good communication skills.
 
@@ -50,28 +50,26 @@ Demonstrable working experience in the following technologies / best practices, 
 
 ## Software development
 
-1. Programming language: Python 3.8+
-1. Python installation tooling: Pip, Conda
-1. Software testing: Pytest (unit testing), coverage.py (code coverage), Black (coding style), Mypy (type check)
-1. Continuous integration: GitHub Actions, GitLab CI/CD, pre-commit
+* Programming language: Python 3
+* Python installation tooling: Pip, Conda
+* Software testing: unit testing (Pytest), type check (Mypy)
+* Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Scientific computing
 
-1. Scientific stack: Numpy, Pandas, Xarray, Dask, Dask.distributed, Scipy
-1. Geospatial stack: GDAL / OGR, rasterio, QGIS
-1. Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
+* Scientific stack: Numpy, Pandas, Xarray, Zarr, Dask, Dask.distributed, Scipy
+* Geospatial stack: GDAL / OGR, rasterio, QGIS
+* Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
 
 ## Specific expertise / Very-nice-to-have
 
-1. Meteorological satellite data formats: netCDF, HDF5, GRIB, BUFR
-1. Synthetic Aperture Radar (SAR) satellite data formats: Sentinel-1 / SAFE
-1. Satellite orbit & kinematics
+* Meteorological satellite data formats: netCDF, HDF5, GRIB, BUFR
+* Synthetic Aperture Radar (SAR) satellite data formats: Sentinel-1 / SAFE
+* Satellite orbit & kinematics
 
 ## Collaboration tools
 
-1. Software project management: GitHub, GitLab, JIRA
-1. Source control: Git
-1. Documentation: reStructuredText, MarkDown, Sphinx / MyST
+* Software project management: GitHub, GitLab, JIRA
 
 <!---
 common closing
