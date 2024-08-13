@@ -27,7 +27,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
-If you are passionate about software development, climate and earth science and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
+If you are passionate about software development, climate and earth science and observation and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
 <!---
 job long description
@@ -42,7 +42,8 @@ job long description
 
 * Degree in technical-scientific disciplines or equivalent practical experience.
 * 3 years of working experience developing geospatial, scientific or engineering software.
-* Verbal and written English proficiency and good communication skills.
+* Proficiency in Python 3+.
+* Proficiency in verbal and written English and good communication skills.
 
 # Preferred qualifications
 
@@ -50,16 +51,16 @@ Demonstrable working experience in the following technologies / best practices, 
 
 ## Software development
 
-* Programming language: Python 3
 * Python installation tooling: Pip, Conda
 * Software testing: unit testing (Pytest), type check (Mypy)
 * Continuous integration: GitHub Actions, GitLab CI/CD
 
 ## Scientific computing
 
-* Scientific stack: Numpy, Pandas, Xarray, Zarr, Dask, Dask.distributed, Scipy
-* Geospatial stack: GDAL / OGR, rasterio, QGIS
+* Scientific libraries: Numpy, Pandas, Xarray, Zarr, Dask, Dask.distributed, Scipy
+* Geospatial libraries: GDAL / OGR, rasterio, QGIS
 * Scientific visualisation: Jupyter notebook, Matplotlib, Plotly
+* Experience with parallel and distributed computing
 
 ## Specific expertise / Very-nice-to-have
 
