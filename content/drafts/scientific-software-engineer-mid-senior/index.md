@@ -27,7 +27,7 @@ You will join a fast growing company and
 a team that uniquely combines a strong research-oriented attitude with a solid industrial approach.
 You will become an expert in cutting-edge Open Source technologies and will contribute to them.
 
-If you are passionate about software development, climate and earth science and observation and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
+If you are passionate about software development, climate and earth observation science and wish to work in an international environment, if your aim is to have fun building stuff that works and has an impact on society, and if you like the possibility of doing it 100% from home, B-Open is the right company for you.
 
 <!---
 job long description
